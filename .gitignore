@@ -1,0 +1,47 @@
+# Virtual Environment
+.venv/
+venv/
+env/
+ENV/
+*.pyc
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# Environment Variables
+.env
+.env.local
+.env.*.local
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+dist/
+build/
+*.egg-info/
+
+# Streamlit
+.streamlit/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Data files
+test_gemini.py
+website_content.json
+*.pdf
+
+# Temporary files
+*.tmp
+.pytest_cache/
