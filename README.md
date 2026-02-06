@@ -218,3 +218,13 @@ For issues, questions, or suggestions:
 ---
 
 **Made with ❤️ to help you land your next opportunity**
+
+To cite this content, please use:
+   ```bash
+   @misc{AITAS,
+    author       = {Moke Dara},
+    title        = {Jobmeet},
+    howpublished = 
+    year         = {2026}
+   }
+
